@@ -10,3 +10,6 @@ a model is usually given a dataset of known data on which training is run (train
 data (or first seen data) against which the model is tested. The goal of cross validation is to define a dataset to
 "test" the model in the training phase (i.e., the validation set), in order to limit problems like overfitting,
 give an insight on how the model will generalize to an independent dataset.
+
+== Sample Result == 
+![sample_result](https://github.com/vinsensiusfernandi/AlgorithmDataStructure-KFold_Split/blob/master/Sample%20Result/KFold.PNG)
